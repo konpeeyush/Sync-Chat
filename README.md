@@ -1,1 +1,1 @@
-# Sync-Chat
+# SyncTalk
