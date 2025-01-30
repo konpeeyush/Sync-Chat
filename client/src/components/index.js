@@ -4,6 +4,9 @@ import Sidebar from './Sidebar';
 import ChatContainer from './ChatContainer';
 import NoChatSelected from './NoChatSelected'
 import SidebarSkeleton from "./SidebarSkeleton";
+import ChatHeader from './ChatHeader'
+import MessageInput from './MessageInput'
+import MessageSkeleton from "./MessageSkeleton";
 
 export {
     Navbar,
@@ -11,5 +14,8 @@ export {
     ChatContainer,
     NoChatSelected,
     Sidebar,
-    SidebarSkeleton
+    SidebarSkeleton,
+    ChatHeader,
+    MessageInput,
+    MessageSkeleton
 }
